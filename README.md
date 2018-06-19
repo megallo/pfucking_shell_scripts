@@ -20,7 +20,7 @@ You will need to set up AWS auth as per the [boto documentation](https://boto3.r
 
 Grab the latest version and set it to executable like so:
 ```sh
-sudo curl -o /usr/local/bin/pfss -L "https://github.com/megallo/pfss/releases/download/v1.0.0/pfss" && \
+sudo curl -o /usr/local/bin/pfss -L "https://github.com/megallo/pfucking_shell_scripts/releases/download/v1.0.0/pfss" && \
 sudo chmod +x /usr/local/bin/pfss
 ```
 
